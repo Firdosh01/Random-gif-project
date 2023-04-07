@@ -6,9 +6,9 @@ import Tag from './Tag';
 function App() {
   return (
     <div className="flex flex-col background">
-      <h1 className= "bg-white rounded-sm ">RANDOM GIFS</h1>
+      <h1 className= "heading">RANDOM GIFS</h1>
 
-      <div className="flex flex-col">
+      <div className="flex flex-col items-center">
         <Random />
         <Tag />
       </div>

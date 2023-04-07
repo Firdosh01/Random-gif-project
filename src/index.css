@@ -9,5 +9,11 @@
     background-color: #b1d2ff;
     height: 100vh;
 }
-  
-  
+.heading{
+    background-color: white;
+    padding: 5px;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
